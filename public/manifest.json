@@ -1,20 +1,20 @@
 {
-  "short_name": "React App",
+  "short_name": "amazon-clone-react",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo-amazon-512.webp",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/webp"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "logo-amazon-512.webp",
+      "type": "image/webp",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "logo-amazon-512.webp",
+      "type": "image/webp",
       "sizes": "512x512"
     }
   ],

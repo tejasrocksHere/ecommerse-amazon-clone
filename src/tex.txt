@@ -1,0 +1,62 @@
+import React from 'react'
+import './Home.css'
+import Products from './Products'
+function Home() {
+  return (
+  <div className="home">
+<img className='home__image' src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" alt="" />
+
+<div className="home_row">
+
+
+
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61XO4bORHUL._AC_UY218_.jpg"  price={14324} rating={5} title="Apple iPhone 14 Pro (256 GB) - Space Black
+"/>
+    <Products id='25454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61VuVU94RnL._AC_UY218_.jpg" price={4532.5} rating={4} title="Apple iPhone 13 (128GB) - Midnight" />
+    <Products id='83454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711wsjBtWeL._AC_UY218_.jpg" price={8643.5} rating={4} title="Apple iPhone 12 (64GB) - White" />
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71xlN-a7s0L._AC_UY218_.jpg" price={74.5} rating={5} title="The Book-harry potter murder myst" />
+<Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61o6pfHHU-L._AC_UY218_.jpg" price={84.5} rating={5} title="A Game of Thrones: Book 1 (A Song of Ice and Fire)
+" />
+</div>
+<div className="home_row">
+
+
+
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61XO4bORHUL._AC_UY218_.jpg"  price={14324} rating={5} title="Apple iPhone 14 Pro (256 GB) - Space Black
+"/>
+    <Products id='25454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61VuVU94RnL._AC_UY218_.jpg" price={4532.5} rating={4} title="Apple iPhone 13 (128GB) - Midnight" />
+    <Products id='83454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711wsjBtWeL._AC_UY218_.jpg" price={8643.5} rating={4} title="Apple iPhone 12 (64GB) - White" />
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71xlN-a7s0L._AC_UY218_.jpg" price={74.5} rating={5} title="The Book-harry potter murder myst" />
+<Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61o6pfHHU-L._AC_UY218_.jpg" price={84.5} rating={5} title="A Game of Thrones: Book 1 (A Song of Ice and Fire)
+" />
+</div>
+
+<div className="home_row">
+
+
+    <Products id='63445' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71eUwDk8z+L._AC_UL400_.jpg" price={34.5} rating={5} title="Ts-shirts for kids" />
+    <Products id='73445' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/4161s4qxWiL._AC_UL400_.jpg" price={6.5} rating={2} title="Offo™ Marvel Avengers Action Figure [15 cm] for Home Decors, Office Desk and Study Table, (Loki)" />
+    <Products id='83445' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81UnrtXrTML._AC_UL400_.jpg" price={44.5} rating={5} title="MARVEL Avengers:Endgame Red Infinity Gauntlet Electronic Fist Roleplay Toy, Lights, Sounds,Kids Ages" />
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71xlN-a7s0L._AC_UY218_.jpg" price={74.5} rating={5} title="The Book-harry potter murder myst" />
+<Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61o6pfHHU-L._AC_UY218_.jpg" price={84.5} rating={5} title="A Game of Thrones: Book 1 (A Song of Ice and Fire)
+" />
+</div>
+<div className="home_row">
+
+
+
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61XO4bORHUL._AC_UY218_.jpg"  price={14324} rating={5} title="Apple iPhone 14 Pro (256 GB) - Space Black
+"/>
+    <Products id='25454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61VuVU94RnL._AC_UY218_.jpg" price={4532.5} rating={4} title="Apple iPhone 13 (128GB) - Midnight" />
+    <Products id='83454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/711wsjBtWeL._AC_UY218_.jpg" price={8643.5} rating={4} title="Apple iPhone 12 (64GB) - White" />
+    <Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71xlN-a7s0L._AC_UY218_.jpg" price={74.5} rating={5} title="The Book-harry potter murder myst" />
+<Products id='3454' image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61o6pfHHU-L._AC_UY218_.jpg" price={84.5} rating={5} title="A Game of Thrones: Book 1 (A Song of Ice and Fire)
+" />
+</div>
+
+
+  </div>
+  )
+}
+
+export default Home
